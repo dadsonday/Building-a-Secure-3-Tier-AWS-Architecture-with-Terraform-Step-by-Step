@@ -148,7 +148,8 @@ Infrastructure as Code for repeatable environments
 
 By combining clean Terraform code with a well-thought-out architecture, you gain confidence in designing scalable cloud systems. This project serves as an excellent foundation for any cloud engineer.
 
-<iframe width="610" height="458" src="https://www.youtube.com/embed/OEkb-hu0QcE" title="The feeling when #terraform  apply finally works. #cloudcomputing #aws  #funny #devops #chatgpt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://youtu.be/OEkb-hu0QcE
+
 
 Subscribe to my channel and hit the bell icon, I’ll be sharing a full tutorial video on the above soon.
 
