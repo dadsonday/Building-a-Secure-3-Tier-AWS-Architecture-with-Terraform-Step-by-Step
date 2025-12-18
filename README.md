@@ -71,7 +71,6 @@ Verification in Console: The deployed subnets confirm the networking design. Not
 
 A NAT Gateway is crucial for private instances to initiate outbound connections (e.g., for software updates) without being publicly accessible.
 
-Press enter or click to view image in full size
 
 <img width="720" height="412" alt="image" src="https://github.com/user-attachments/assets/b5a48cc3-5ba1-4f68-ab78-7ff42ff5b21c" />
 
